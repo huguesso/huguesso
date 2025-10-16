@@ -34,6 +34,5 @@ My goal is to contribute to **large-scale, high-impact systems** — the kind th
 ## 🌍 Let’s Connect
 💼 [LinkedIn](https://www.linkedin.com/in/manuel-hugues)  
 🐙 [GitHub](https://github.com/huguesso)  
-📧 **youremail@domain.com**
 
 ---
