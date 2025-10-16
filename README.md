@@ -1,30 +1,39 @@
-<h3 align="center">
-  Welcome to huguesso's profile!
-</h3>
+# 👋 Hey, I’m **manuel**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&size=24&center=true&lines=Cloud++architect;Sofware+engeneer;Self-taught+UI%26UX+designer;Mentor+openclassroom">
-</p>
+💡 **Software Engineer | Cloud & System Design Enthusiast | Building Resilient Systems**
 
-### 👋 Hi there
+I craft **high-performance backend systems** and **scalable cloud architectures** with a strong focus on **reliability, efficiency, and clean design**.  
+My experience spans **Go**, **Java**, and the **AWS ecosystem**, where I design and implement distributed solutions that power complex business domains — especially in **banking and financial services**.
 
-- 🔭 I’m currently working on robust, resilient application and tools based on aws cloud
-- 😄 I'm working too on specific assurance bot and other secrets projects
-- 👨‍💻 my favorite languages python , javscript & C#
-- 💬 Contact me for more information
-- 📫 How to reach: <a href="https://www.linkedin.com/in/eraly-olinga/" target="_blank"> linkedin </a>
+---
 
-<!--
-**huguesso/huguesso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Technical Focus
+- **Languages:** Go | Java | Python | JavaScript  
+- **Cloud & Infrastructure:** AWS | Kubernetes | Docker | Terraform | CI/CD  
+- **Architecture:** Microservices | Event-driven Systems | System Design | Resilience & Scalability  
+- **Practices:** Clean Architecture | Domain-Driven Design | Performance Optimization | Observability  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What Drives Me
+- Building **resilient, fault-tolerant systems** capable of handling real-world scale  
+- Designing **elegant architectures** that balance complexity, maintainability, and performance  
+- Continuously improving codebases through **automation, testing, and clean design principles**  
+- Exploring the intersection of **finance, cloud computing, and high-availability platforms**
+
+---
+
+## 🧠 Mindset
+> “Great engineering is about simplicity, scalability, and clarity of thought.”
+
+I value **deep system understanding**, **engineering discipline**, and a **growth-oriented mindset**.  
+My goal is to contribute to **large-scale, high-impact systems** — the kind that power modern financial infrastructure or global platforms.
+
+---
+
+## 🌍 Let’s Connect
+💼 [LinkedIn](https://www.linkedin.com/in/manuel-hugues)  
+🐙 [GitHub](https://github.com/huguesso)  
+📧 **youremail@domain.com**
+
+---
